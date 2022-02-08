@@ -1,0 +1,1 @@
+(()=>{alert("ceci est un test");var e,t,r=prompt("Entrer votre nom:");e=document.querySelector(".test"),t=r,e.innerHTML='<center> <h1>Bonjour <span style="color: #2F3857">'.concat(t,"</span></h1></center")})();
